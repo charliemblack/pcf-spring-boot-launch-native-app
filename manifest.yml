@@ -1,0 +1,6 @@
+---
+applications:
+  - name: native-app-launcher
+    buildpack: java_buildpack
+    path: build/libs/pcf-spring-boot-launch-native-app-0.0.1-SNAPSHOT.jar
+
